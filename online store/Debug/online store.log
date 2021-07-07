@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(155,9): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(166,9): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(178,9): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(189,9): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(208,9): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(248,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(224,9): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(236,9): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(295,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed salah\source\repos\online store\online store\Source.cpp(376,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  online store.vcxproj -> C:\Users\Ahmed salah\source\repos\online store\Debug\online store.exe
